@@ -12,7 +12,7 @@ self.addEventListener('install', (event) => {
             [
                 `${ROOT_PATH}/`, 
                 `${ROOT_PATH}/index.html`, 
-                  '/-pwa-gustavo/images/icons/android-launchericon-72-72.png',
+                  '/-AWP-U2-P7/images/images/icons/android-launchericon-72-72.png',
       '/-AWP-U2-P7/images/icons/android-launchericon-96-96.png',
       '/-AWP-U2-P7/images/icons/android-launchericon-144-144.png',
       '/-AWP-U2-P7/images/icons/android-launchericon-144-144.png',
